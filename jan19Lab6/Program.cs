@@ -27,7 +27,16 @@ namespace jan19Lab6
                 d1 = RandomTheNumbers(sides, random);
                 d2 = RandomTheNumbers(sides, random);
                 Console.WriteLine("\nThe result of your first die is {0} and the result of your second die is {1}", d1, d2);
-                runP = Continue();
+                if (d1 == 1 && d2 == 1)
+                {
+                    Console.WriteLine("Snake Eyes");
+                }
+                else if (d1 == 6 && d2 == 6)
+                {
+                    Console.WriteLine("BoxCars");
+                }
+                else
+                    runP = Continue();
             }
         }
         public static bool RollTheDice()
