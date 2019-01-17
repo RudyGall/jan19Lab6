@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\jan19Lab6\jan19Lab6\bin\Debug\jan19Lab6.exe.config
+C:\Users\rudye\source\repos\jan19Lab6\jan19Lab6\bin\Debug\jan19Lab6.exe
+C:\Users\rudye\source\repos\jan19Lab6\jan19Lab6\bin\Debug\jan19Lab6.pdb
+C:\Users\rudye\source\repos\jan19Lab6\jan19Lab6\obj\Debug\jan19Lab6.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\jan19Lab6\jan19Lab6\obj\Debug\jan19Lab6.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\jan19Lab6\jan19Lab6\obj\Debug\jan19Lab6.exe
+C:\Users\rudye\source\repos\jan19Lab6\jan19Lab6\obj\Debug\jan19Lab6.pdb
